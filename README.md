@@ -4,7 +4,7 @@
 #### ruby on rails 
 
 
-I'm clever
+I'm very clever
 
 
 hahaha!!!
